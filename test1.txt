@@ -3,3 +3,4 @@ test1.txt
 
 This is a trial for the second commit
 
+This is my next line
